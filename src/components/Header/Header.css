@@ -1,0 +1,25 @@
+div{
+    text-align: center;
+}
+div img{
+    height: 40px;
+    width: 220px;
+    padding: 20px;
+}
+nav{
+    background-color: darkblue;
+    padding: 5px;
+}
+nav a{
+    text-decoration: none;
+    color:white;
+    margin-right: 50px;
+    padding: 5px;
+}
+
+nav a:hover{
+    background-color:aqua;
+    color:red;
+    margin-right: 50px;
+    padding: 5px;
+}
